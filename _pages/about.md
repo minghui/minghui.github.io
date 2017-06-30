@@ -56,3 +56,7 @@ Selected Awards
 * International Mathematical Contest in Modelling(MCM), Honorable Mention, SIAM and MAA, 2010
 * Chinese Undergraduate Mathematical Contest in Modeling(CUMCM), National Second Prize (First Prize in Liaoning Province), 2009
 
+Publications and CV
+===================
+* [Publications](https://yangliuy.github.io/publications/)
+* [CV](https://yangliuy.github.io/cv/)
