@@ -1,0 +1,15 @@
+there 's a lot of malls to check out , ranging from ENTITY_Century_City , near ENTITY_UCLA , to Beverly Center , to the ENTITY_Grove to ENTITY_Beverly_Hills .
+There are other streets almost specifically catering to the high-end shopper , among them are Melrose , ENTITY_Robertson , ENTITY_Montana_Ave. and ENTITY_Albert_Kinney Blvd. 
+For food ? ENTITY_Costco or Target . For auto parts ? Auto-Zone . For electronics ? eBay . For entertainment ? eBay . For gas ? ENTITY_Chevron . For oil changes ? Jiffy Lube .
+Olvera St is lots of fun to see an orginal sort of shopping street from the birth of ENTITY_LA.
+Broadway is a huge shopping district . Under the office towers are more shops .
+For a cross-cultural shopping experience , try ENTITY_Chinatown in downtown LA
+If you want outlet style stores , the Citadel off the 5 freeway has a lot of stores .
+venice beach is a nice place to check out to , i like the type of accessories and souvenirs they have there too .
+a wine shop i 'd definitely reccommend for you to check out and dine in is the ENTITY_San_Antonio_Winery .
+ENTITY_L.A. is a shopper 's paradise , and you can buy literally anything you could possibly need .
+For cheap , you can shop at places like ENTITY_Ross or Target ... or head for the Fashion District south of the Civic Center .
+The Third Street Promenade in ENTITY_Santa_Monica is definitely my favorite , but I also like the Westside Pavillion and the ENTITY_Del_Amo_Fashion_Center in ENTITY_Torrance
+if you really want some great food , there 's this great mexican place called ENTITY_El_Taurino on hoover and olympic .
+they shop at regular department stores like ENTITY_JC_Penney , ENTITY_Sears , ENTITY_Macy_'s , etc. .
+ENTITY_Los_Angelenos go such places as : the Beveryly Center -LRB- 8 stories of high-end designer fashion shopping

@@ -1,0 +1,61 @@
+************************************************************************************************************
+* 		Generating Travel Guides from Social Media
+*		by Text Mining Group
+*		School of Information Systems
+*		Singapore Management University
+*		02/12/2014
+*       yangliuyx@gmail.com
+************************************************************************************************************
+
+                                                      Summary Annotation Guidelines
+
+<<INTRODUCTION>>
+In this work, we aim to generate travel guides from user-generated content in Q&A communities such as
+Yahoo! Answers. Observing that standard travel guides such as those from Lonely Planet may be outdated
+or limited, we turn to social media to look for fresh content. In social media, many users contribute their travel
+experience and recommendations. Specifically, our task is to generate summaries for different sections of 
+each city in Q&A threads of social media.
+
+<<DATASET>>
+(1) Our data set contains Q&A threads related to 4 cities. The cities are as follows:  "Singapore", "Los Angeles", 
+"New York City", "Sydney". We have preprocessed the data and chosen the following 8 sections: "restaurants", 
+"hotels", "shopping",  "sights", "entertainment-nightlife", "activities", "transport", "things-to-do".
+
+(2) For each section of each city, we have 30 relevant Q&A threads. The annotators should select 15 sentences from
+ these 30 relevant Q&A threads to generate section focused summary.
+.
+
+<<ANOTATION GUIDELINES>>
+(1) For each section of each city, the following standards should be considered when annotators select 15 sentences
+ from 30 relevant Q&A threads to generate the summary:
+
+Relevance: a good summary should contain informative textual units with relevance to the section/city.
+Coverage: a good summary should cover important and representative information in the Q&A threads.
+Redundancy: a good summary should not contain multiple textual units that convey the same information.
+Length: the summary should contain 15 sentences and the total length should tend to be in (250, 400) 
+words interval. The limit for the number of words is not compulsive.
+
+(2) The annotators should order the selected sentences by importances and put more critical sentence ahead.
+
+<<ANNOTATION FORMAT>>
+(1) All Q&A threads to be summarized are in "travelCQA_4Cities" folder and they have been separated by cities
+and sections. The summary annatations are in the other 4 folders. For example, the folder 
+"summaryAnotation_4Cities_YL\Singapore_CQA\summaryAnotation_YL" is created to put all annotated summaries for Singapore
+ by "YL"(Annotator ID. e.g. "DY", "LZ", "JG"). The format of the name of this folder(refereed as summary folder) is 
+"summaryAnotation_4Cities_AnnotatorID\CityName_CQA\summaryAnotation_AnnotatorID". 
+
+(2) In each summary folder, 8 section focused summary files will be created. The format of the name of this file(refereed
+ as summary file) is "CityName_SectionName_summary.txt". For example, "Singapore_restaurants_summary.txt" is the 
+labelled section focused summary for section "restaurants" and city "Singapore".
+
+(3) Each summary file contains 15 sentences selected from Q&A threads according to annotation guidelines. Each line 
+is a sentence.
+
+<<REFERENCES>>
+(1) If you use this data set, please cite the following paper:
+Liu Yang, Jing Jiang, Lifu Huang, Minghui Qiu, Lizi Liao. Generating Supplementary Travel Guides from Social Media. Proceedings of COLING'14.
+
+(2) If you have any questions about this data set, please feel free to contact the author via yangliuyx@gmail.com.
+
+
+

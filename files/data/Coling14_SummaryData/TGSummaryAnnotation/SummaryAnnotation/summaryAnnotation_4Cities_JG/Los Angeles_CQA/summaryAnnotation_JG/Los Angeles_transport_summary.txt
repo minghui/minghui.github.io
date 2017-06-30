@@ -1,0 +1,15 @@
+Go on `` Map Quest '' on line and type in your destination based on the location you are starting from .
+Know this about ENTITY_LA , the reason we have horrible traffic is because the area is so vast , a car is often the only option .
+Right Peddlepup that is why we need an ENTITY_Anaheim Flyaway bus ... to avoid bus to Union Station , ENTITY_Metrolink to ENTITY_Anaheim , then taxi to hotel or some ridiculous thing .
+Plus , if you decide to make a day of it coming from ENTITY_LA consider using ENTITY_Amtrak from ENTITY_LA_Union_Station to ENTITY_Downtown_SD .
+The traffic is tough around ENTITY_LAX , there is really nothing to do in that area other than other hotels , not an area to walk around at all .
+Try just using the ENTITY_Metro transit system , they offer an all day pass for only $ 5 Which is valid for use on all regular bus & subway lines .
+A cab from H&H to downtown would be expensive and there is always traffic on the 101 even at that time of night .
+so its gon na take awhile in ENTITY_l.a. traffic ... as far as getting there you can take a cab or a shuttle service there are several that work out of the airport
+Our mass transit system here is not very good and you will literally spend hours and have to change buses/trains many times to do what you want .
+Do understand that except for a few places downtown , in ENTITY_LA , taxis are not allowed to accept riders who try to flag them .
+It does n't work for everyone , but I encourage everyone to at least try getting around without their car for just a day , or even just a weekend or an afternoon .
+Figure out which places you should see on the same day , and then plan the routes on ENTITY_Google_Maps -LRB- the little bus icon is for public transportation routes -RRB- , or at www.metro.net
+If you are planning to move here and rely on public transportation , you should plan accordingly .
+There are public transportation however if you 're not familiar with the place then you might get lost .
+if you 're going to spend a few weeks in ENTITY_LA the best way to travel around ENTITY_LA usin public transportation is to buy an ENTITY_LA_Metro tap-card which costs about $ 60-70 and valid thru month

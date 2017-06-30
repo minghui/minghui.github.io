@@ -1,0 +1,15 @@
+ You can maneuver around the city via our alleged public transportation system . 
+Bicycling is an option , but with all the crazy drivers be extra cautious . 
+Hey , maybe there 's someplace you can rent a Segeway ! 
+You could take a taxi to some of the places you want to go , but it could get pricey .
+You could always take a shuttle from the airport to the hotel . 
+You can also rent kayaks and sailboats .
+Any good travel consolidator -LRB- ENTITY_Orbitz , ENTITY_Travelosity , ect -RRB- can get you a great fare . 
+ENTITY_Southwest usually has some pretty cheap flights between ENTITY_LA and SF , so you might check there , or look up commuter flights between the two cities .
+Go on `` Map Quest '' on line and type in your destination based on the location you are starting from . 
+Know this about ENTITY_LA , the reason we have horrible traffic is because the area is so vast , a car is often the only option . 
+ For example , do n't try to take a bus from ENTITY_Hollywood to ENTITY_Anaheim in the morning , then expect to get back to ENTITY_Hollywood that night .
+ Plan on spending at least 2 day around ENTITY_Disneyland , to get a chance to the park without being rushed .
+As the second largest city in the ENTITY_United_States , ENTITY_Los_Angeles has a terribly inadequate public transportation system .
+ I hope you 're not arriving between 3pm and 7pm because traffic is heavy then . 
+If you park your car in ENTITY_San_Diego getting to ENTITY_Tiajuana is really easy .
