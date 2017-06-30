@@ -54,7 +54,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter 
+  username               : liuyangumass
 facebook:
   username               : 
   app_id                 :
@@ -78,32 +78,32 @@ analytics:
 # Site Author
 author:
   name             : "Liu Yang"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "USA"
+  avatar           : "profile.jpg"
+  bio              : "PhD Candidate of CIIR, CICS, UMass Amherst"
+  location         : "MA, USA"
   employer         : 
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : 
+  googlescholar    : "https://scholar.google.com/citations?user=MrsVnA4AAAAJ&hl=en"
+  email            : "yangliuyx@gmail.com"
   uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : 
+  facebook         : "https://www.facebook.com/yangliuyx"
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/yangliuy"
   google_plus      :
   keybase          :
   instagram        : 
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "liuyangumass"
   vine             :
   weibo            :
   xing             :
