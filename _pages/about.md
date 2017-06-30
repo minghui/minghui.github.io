@@ -30,3 +30,27 @@ Research Interests
 * Information Retrieval/ Web Search/ Question Answering   
 * Text Mining/ Data Mining/ Natural Language Processing   
 * Statistical Machine Learning/ Deep Learning/ Artificial Intelligence
+
+Professional Services
+====================
+* Reviewer, The 26th international World Wide Web Conference (WWW 2017)
+* Program Committee Member/ Reviewer, The 26th ACM International Conference on Information and Knowledge Management (CIKM 2017)
+* Program Committee Member, Machine Learning Track, The 3rd ACM International Conference on the Theory of Information Retrieval (ICTIR 2017)
+* Program Committee Member, The Sixth Conference on Natural Language Processing and Chinese Computing (NLPCC 2017)
+* Program Committee Member/ Reviewer, The 24th ACM International Conference on Information and Knowledge Management (CIKM 2015)
+* Reviewer, ACM Transactions on Internet Technology (ACM TOIT)
+
+Selected Awards
+===============
+* Student Travel Award of SIGIR 2017, by ACM SIGIR. 2017
+* Student Travel Award of CIKM 2016, by ACM SIGIR. 2016
+* Student Travel Award of ECIR 2016, ECIR 2016, 2016
+* Best Paper Award Runner-ups of SocInfo 2013, Kyoto, Japan, 2013
+* Student Travel Award of CIKM 2013, by ACM SIGIR, ACM SIGWEB, and Facebook, 2013
+* Top 10 Undergraduates of Liaoning Province, Department of Education, Liaoning Province, 2011
+* ACM-ICPC Programming Contest ,second prize, Northeastern University, 2011
+* National Scholarship(top 1%), National Ministry of Education, 2010
+* IBM Chinese Excellent Student Scholarship(top 1%), IBM, 2010
+* International Mathematical Contest in Modelling(MCM), Honorable Mention, SIAM and MAA, 2010
+* Chinese Undergraduate Mathematical Contest in Modeling(CUMCM), National Second Prize (First Prize in Liaoning Province), 2009
+
