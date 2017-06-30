@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Liu Yang's Homepage!"
+title: " "
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -19,24 +19,25 @@ Experience
 * UMass Amherst, Research Assistant in Center for Intelligent Information Retrieval(CIIR), Advisor: Prof. W. Bruce Croft, Amherst, MA, Aug. 2014 - Present
 
 * Microsoft Research Redmond, Research Intern in CLUES (Context, Learning, and User Experience for Search) group. Redmond, Seattle Area, WA. Jun. 2016 - Sept. 2016
-> Mentors: Dr. Susan Dumais, Dr. Paul Bennett, Dr. Ahmed Hassan Awadallah from MSR
+* #### Mentors: Dr. Susan Dumais, Dr. Paul Bennett, Dr. Ahmed Hassan Awadallah from MSR
 * Microsoft Research Redmond/Bing, Research Intern on Bing Contextual Relevance. Bellevue, Seattle Area, WA. May 2015 - Aug. 2015
-> Mentors: Dr. Kieran McDonald, Dr. Qi Guo, Dr. Sha Meng from Bing and Dr. Yang Song, Dr. Milad Shokouhi from MSR
+* #### Mentors: Dr. Kieran McDonald, Dr. Qi Guo, Dr. Sha Meng from Bing and Dr. Yang Song, Dr. Milad Shokouhi from MSR
 * Singapore Management University, Research Assistant in Text Mining Group, Advisor: Prof. Jing Jiang, Singapore, Sep. 2012 - Jun. 2014
 * Baidu Inc, Software Engineer Intern in Search R&D Department, Beijing, Feb. 2011 - Aug. 2011
 
 Research Interests
 ==================
-##### Information Retrieval/ Web Search/ Question Answering
-* ###### Ranking and Relevance/ Language Modeling/ Learning to Rank
-* ###### Answer Retrieval/ Question Answering/ Machine Comprehension/ Learning to Match
-* ###### Dialogue Systems/ Human-Computer Conversation/ Sequence-to-Sequence Models
-* ###### Query Expansion/Query Reformulation/Query Processing and Understanding
-* ###### Search Evaluation/ User Satisfaction/ Search Personalization
-#### Text Mining/ Data Mining/ Natural Language Processing
-* ###### Topic Modeling
-* ###### Sentiment Analysis/ Opinion Mining
-* ###### Online User Modeling/ Profiling
+* Information Retrieval/ Web Search/ Question Answering
+* #### Ranking and Relevance/ Language Modeling/ Learning to Rank
+* ####  Answer Retrieval/ Question Answering/ Machine Comprehension/ Learning to Match
+* #### Dialogue Systems/ Human-Computer Conversation/ Sequence-to-Sequence Models
+* ####  Query Expansion/Query Reformulation/Query Processing and Understanding
+* ####  Search Evaluation/ User Satisfaction/ Search Personalization
+
+* Text Mining/ Data Mining/ Natural Language Processing
+* #### Topic Modeling
+* #### Sentiment Analysis/ Opinion Mining
+* #### Online User Modeling/ Profiling
 * ###### Recommender System
 * ###### Community Question Answering
 * ###### Information Extraction and Summarization
