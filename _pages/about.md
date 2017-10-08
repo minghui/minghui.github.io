@@ -35,6 +35,7 @@ Research Interests
 
 Professional Services
 ====================
+* Program Committee Member, Demo Track, The 11th ACM International Conference on Web Search and Data Mining (WSDM 2018)
 * Reviewer, The 26th international World Wide Web Conference (WWW 2017)
 * Program Committee Member/ Reviewer, The 26th ACM International Conference on Information and Knowledge Management (CIKM 2017)
 * Program Committee Member, Machine Learning Track, The 3rd ACM International Conference on the Theory of Information Retrieval (ICTIR 2017)
