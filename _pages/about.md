@@ -39,7 +39,6 @@ Professional Services
 * Reviewer, The 26th international World Wide Web Conference (WWW 2017)
 * Program Committee Member/ Reviewer, The 26th ACM International Conference on Information and Knowledge Management (CIKM 2017)
 * Program Committee Member, Machine Learning Track, The 3rd ACM International Conference on the Theory of Information Retrieval (ICTIR 2017)
-* Program Committee Member, The Sixth Conference on Natural Language Processing and Chinese Computing (NLPCC 2017)
 * Program Committee Member/ Reviewer, The 24th ACM International Conference on Information and Knowledge Management (CIKM 2015)
 * Reviewer, ACM Transactions on Internet Technology (ACM TOIT)
 
