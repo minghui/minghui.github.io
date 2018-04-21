@@ -13,7 +13,7 @@
 # The TSV needs to have the following columns: pub_date, title, venue, excerpt, citation, site_url, and paper_url, with a header at the top. 
 # 
 # - `excerpt` and `paper_url` can be blank, but the others must have values. 
-# - `pub_date` must be formatted as YYYY-MM-DD.
+# - `pub_date` must be formatted as YYYY-MM-DD. (Update in 0421, add a function to transfer pub_date like 8/7/2017 to 2017-08-07)
 # - `url_slug` will be the descriptive part of the .md file and the permalink URL for the page about the paper. The .md file will be `YYYY-MM-DD-[url_slug].md` and the permalink will be `https://[yourdomain]/publications/YYYY-MM-DD-[url_slug]`
 
 
@@ -54,6 +54,22 @@ def html_escape(text):
     """Produce entities within text."""
     return "".join(html_escape_table.get(c,c) for c in text)
 
+def add_pre_zero(month):
+    month = int(month) # 1-12 or 1-31
+    if month < 10:
+        return '0' + str(month)
+    else:
+        return str(month)
+
+#transfer pub_date like 8/7/2017 to 2017-08-07
+def transfer_pub_date(ori_pub_date):
+    tokens = ori_pub_date.split('/')
+    year = tokens[2]
+    month = add_pre_zero(tokens[0])
+    day = add_pre_zero(tokens[1])
+    new_date = '20' + year + '-' + month + '-' + day
+    print 'test new_date:', new_date
+    return new_date
 
 # ## Creating the markdown files
 # 
@@ -65,8 +81,11 @@ import os
 for row, item in publications.iterrows():
 
     print 'item: ', item
-    md_filename = str(item.pub_date) + "-" + item.url_slug + ".md"
-    html_filename = str(item.pub_date) + "-" + item.url_slug
+    # update in 0421, transfer pub_date like 8/7/2017 to 2017-08-07
+    new_pub_date = transfer_pub_date(str(item.pub_date))
+
+    md_filename = new_pub_date + "-" + item.url_slug + ".md"
+    html_filename = new_pub_date + "-" + item.url_slug
     #year = item.pub_date[:4]
     
     ## YAML variables
@@ -80,7 +99,7 @@ for row, item in publications.iterrows():
     if len(str(item.excerpt)) > 5:
         md += "\nexcerpt: '" + html_escape(item.excerpt) + "'"
     
-    md += "\ndate: " + str(item.pub_date) 
+    md += "\ndate: " + str(new_pub_date)
     
     md += "\nvenue: '" + html_escape(item.venue) + "'"
     
