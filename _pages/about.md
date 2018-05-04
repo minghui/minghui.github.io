@@ -14,7 +14,7 @@ I am a fourth-year PhD student in the Center for Intelligent Information Retriev
 
 I was a Research Assistant at Text Mining Group in School of Information Systems, Singapore Management University, under the supervision of Prof. Jing Jiang on text mining and machine learning. I was working closely with Prof. Feida Zhu. I got my Master degree in Computer Science from University of Massachusetts Amherst and another Master degree from Peking University. For industrial experiences, I worked as a research intern in Microsoft Research Redmond, Microsoft Bing and a software engineer intern in Search R&D Department of Baidu Inc. My research areas include information retrieval, natural language processing,  text mining and machine learning. I have published papers in conferences such as SIGIR, ACL, CIKM, ICDM, NAACL, COLING and ECIR. Moreover, I have served as the PC member for top-tier conferences including KDD, ACL, WSDM and CIKM. I'm now focusing on research on deep learning, question answering, statistical language models, probabilistic graphical models, ranking and relevance, learning to rank and online user modeling/profiling.
 
-I expect to graduate in Summer 2019 and am on the job market for research related positions starting in Summer 2019. Drop me an email if you are hiring for your team and find us a good match :)
+I expect to graduate in Summer 2019 and am on the job market for research related positions starting in Summer 2019. Drop me an email if you are hiring and find us a good match :)
 
 My Google scholar link: [Google Scholar](https://scholar.google.com/citations?user=MrsVnA4AAAAJ&hl=en).
 
