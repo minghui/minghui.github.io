@@ -22,7 +22,7 @@ My homepage is also hosted on [Google Site](https://sites.google.com/site/lyangw
 
 Experience
 ==========
-* UMass Amherst, Research Assistant in Center for Intelligent Information Retrieval(CIIR), Advisor: Prof. W. Bruce Croft, Amherst, MA. Aug. 2014 - Jun. 2019 (expected)
+* UMass Amherst, Research Assistant in Center for Intelligent Information Retrieval(CIIR), Advisor: Prof. W. Bruce Croft, Amherst, MA. Aug. 2014 - May 2019 (expected)
 * Microsoft Research Redmond, Research Intern in CLUES (Context, Learning, and User Experience for Search) group. Redmond, Seattle Area, WA. Jun. 2016 - Sept. 2016   
 Mentors: Dr. Susan Dumais, Dr. Paul Bennett, Dr. Ahmed Hassan Awadallah from MSR
 * Microsoft Research Redmond/Bing, Research Intern on Bing Contextual Relevance. Bellevue, Seattle Area, WA. May 2015 - Aug. 2015   
