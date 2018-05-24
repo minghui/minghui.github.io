@@ -27,7 +27,7 @@ Academic Experience
 * Singapore Management University, Research Assistant in Text Mining Group, Advisor: Prof. Jing Jiang, Singapore. Sept. 2012 - Jun. 2014
 
 Industrial Experience
-===================
+=====================
 * Microsoft Research Redmond, Research Intern in CLUES (Context, Learning, and User Experience for Search) group. Redmond, Seattle Area, WA, USA. Jun. 2016 - Sept. 2016,
 Mentors: Dr. Susan Dumais, Dr. Paul Bennett, Dr. Ahmed Hassan Awadallah from MSR
 * Microsoft Research Redmond/Bing, Research Intern on Bing Contextual Relevance. Bellevue, Seattle Area, WA, USA. May 2015 - Aug. 2015,
