@@ -12,7 +12,7 @@ About Me
 ========
 I am a fourth-year PhD student in the Center for Intelligent Information Retrieval (CIIR) , College of Information and Computer Sciences, University of Massachusetts Amherst under the supervision of Prof. W. Bruce Croft. I am also working closely with Prof. Jiafeng Guo.
 
-I was a Research Assistant at Text Mining Group in School of Information Systems, Singapore Management University, under the supervision of Prof. Jing Jiang on text mining and machine learning. I was working closely with Prof. Feida Zhu. I got my Master degree in Computer Science from University of Massachusetts Amherst and another Master degree from Peking University. For industrial experiences, I worked as a research intern in Microsoft Research Redmond, Microsoft Bing and a software engineer intern in Search R&D Department of Baidu Inc. My research areas include information retrieval, natural language processing,  text mining and machine learning. I have published papers in conferences such as SIGIR, ACL, CIKM, ICDM, NAACL, COLING and ECIR. Moreover, I have served as the PC member for top-tier conferences including KDD, ACL, WSDM and CIKM. I'm now focusing on research on deep learning, question answering, statistical language models, probabilistic graphical models, ranking and relevance, learning to rank and online user modeling/profiling.
+I was a Research Assistant at Text Mining Group in School of Information Systems, Singapore Management University, under the supervision of Prof. Jing Jiang on text mining and machine learning. I was working closely with Prof. Feida Zhu. I got my Master degree in Computer Science from University of Massachusetts Amherst and another Master degree from Peking University. For industrial experiences, I worked as a research intern in Microsoft Research Redmond, Microsoft Bing and a software engineer intern in Search R&D Department of Baidu Inc. My research areas include information retrieval, natural language processing,  text mining and machine learning. I have published papers in conferences such as SIGIR, ACL, CIKM, ICDM, NAACL, COLING and ECIR. Moreover, I have served as the PC member for top-tier conferences including KDD, ACL, EMNLP, WSDM and CIKM. I'm now focusing on research on deep learning, question answering, statistical language models, probabilistic graphical models, ranking and relevance, learning to rank and online user modeling/profiling.
 
 I expect to graduate in Summer 2019 and am on the job market for research related positions starting in Summer 2019. Drop me an email if you are hiring and find us a good match :)
 
@@ -20,15 +20,19 @@ My Google scholar link: [Google Scholar](https://scholar.google.com/citations?us
 
 My homepage is also hosted on [Google Site](https://sites.google.com/site/lyangwww/).
 
-Experience
-==========
-* UMass Amherst, Research Assistant in Center for Intelligent Information Retrieval(CIIR), Advisor: Prof. W. Bruce Croft, Amherst, MA. Aug. 2014 - Jun. 2019 (expected)
-* Microsoft Research Redmond, Research Intern in CLUES (Context, Learning, and User Experience for Search) group. Redmond, Seattle Area, WA. Jun. 2016 - Sept. 2016   
+Academic Experience
+===================
+* UMass Amherst, Research Assistant in Center for Intelligent Information Retrieval(CIIR), Advisor: Prof. W. Bruce Croft, Amherst, MA, USA. Aug. 2014 - May 2019 (expected)
+* Institute of Computing Technology, Chinese Academy of Science, Visiting PhD student in CAS Key Lab of Network Data Science and Technology, Advisor: Prof. Jiafeng Guo, Beijing, China. Sept. 2017 - Nov. 2017
+* Singapore Management University, Research Assistant in Text Mining Group, Advisor: Prof. Jing Jiang, Singapore. Sept. 2012 - Jun. 2014
+
+Industrial Experience
+===================
+* Microsoft Research Redmond, Research Intern in CLUES (Context, Learning, and User Experience for Search) group. Redmond, Seattle Area, WA, USA. Jun. 2016 - Sept. 2016,
 Mentors: Dr. Susan Dumais, Dr. Paul Bennett, Dr. Ahmed Hassan Awadallah from MSR
-* Microsoft Research Redmond/Bing, Research Intern on Bing Contextual Relevance. Bellevue, Seattle Area, WA. May 2015 - Aug. 2015   
+* Microsoft Research Redmond/Bing, Research Intern on Bing Contextual Relevance. Bellevue, Seattle Area, WA, USA. May 2015 - Aug. 2015,
 Mentors: Dr. Kieran McDonald, Dr. Qi Guo, Dr. Sha Meng from Bing and Dr. Yang Song, Dr. Milad Shokouhi from MSR
-* Singapore Management University, Research Assistant in Text Mining Group, Advisor: Prof. Jing Jiang, Singapore, Sep. 2012 - Jun. 2014
-* Baidu Inc, Software Engineer Intern in Search R&D Department, Beijing, Feb. 2011 - Aug. 2011
+* Baidu Inc, Software Engineer Intern in Search R&D Department, Beijing, China. Feb. 2011 - Aug. 2011
 
 Research Interests
 ==================
@@ -37,7 +41,8 @@ Research Interests
 * Statistical Machine Learning/ Deep Learning/ Artificial Intelligence
 
 Professional Services
-====================
+=====================
+* PC Member, 2018 Conference on Empirical Methods in Natural Language Processing (EMNLP 2018)
 * PC Member, The 27th ACM International Conference on Information and Knowledge Management (CIKM 2018)
 * PC Member, The 24rd SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2018)
 * PC Member, The 56th Annual Meeting of the Association for Computational Linguistics (ACL 2018)
@@ -49,9 +54,15 @@ Professional Services
 * PC Member, The 3rd ACM International Conference on the Theory of Information Retrieval (ICTIR 2017)
 * PC Member, The 24th ACM International Conference on Information and Knowledge Management (CIKM 2015)
 
+Selected Open Source Projects
+=============================
+* [MatchZoo](https://github.com/faneshion/matchzoo): MatchZoo is a toolkit for deep neural text matching. It was developed with a focus on facilitating the designing, comparing and sharing of deep text matching models. The implemented models include ARC-I/ARC-II, DSSM, CDSSM, MatchPyramid, DRMM, aNMM, MV-LSTM, Duet, etc.
+* [NeuralResponseRanking](https://github.com/yangliuy/NeuralResponseRanking): NeuralResponseRanking is an open source package for several neural matching models for response ranking in information-seeking conversations.
+* [LDAGibbsSampling](https://github.com/yangliuy/LDAGibbsSampling): LDAGibbsSampling is an open source package for Gibbs sampling inference of LDA model, which could be used for topic modeling in text mining.
+
 Selected Awards
 ===============
-* Student Travel Award of SIGIR 2017/ CIKM 2016/ ECIR 2016/ CIKM 2013, 2013-2017
+* Student Travel Award of SIGIR 2018/ SIGIR 2017/ CIKM 2016/ ECIR 2016/ CIKM 2013, 2013-2018
 * Best Paper Award Runner-ups of SocInfo 2013, Kyoto, Japan, 2013
 * Top 10 Undergraduates of Liaoning Province, Department of Education, Liaoning Province, 2011
 * ACM-ICPC Programming Contest ,second prize, Northeastern University, 2011
