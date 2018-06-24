@@ -12,7 +12,7 @@ About Me
 ========
 I am a fourth-year PhD student in the Center for Intelligent Information Retrieval (CIIR) , College of Information and Computer Sciences, University of Massachusetts Amherst under the supervision of Prof. W. Bruce Croft. I am also working closely with Prof. Jiafeng Guo.
 
-I was a Research Assistant at Text Mining Group in School of Information Systems, Singapore Management University, under the supervision of Prof. Jing Jiang on text mining and machine learning. I was working closely with Prof. Feida Zhu. I got my Master degree in Computer Science from University of Massachusetts Amherst and another Master degree from Peking University. For industrial experiences, I worked as a research intern in Microsoft Research Redmond, Microsoft Bing and a software engineer intern in Search R&D Department of Baidu Inc. My research areas include information retrieval, natural language processing,  text mining and machine learning. I have published papers in conferences such as SIGIR, ACL, CIKM, ICDM, NAACL, COLING and ECIR. Moreover, I have served as the PC member for top-tier conferences including KDD, ACL, EMNLP, WSDM and CIKM. I'm now focusing on research on deep learning, question answering, statistical language models, probabilistic graphical models, ranking and relevance, learning to rank and online user modeling/profiling.
+I was a Research Assistant at Text Mining Group in School of Information Systems, Singapore Management University, under the supervision of Prof. Jing Jiang on text mining and machine learning. I was working closely with Prof. Feida Zhu. I got my Master degree in Computer Science from University of Massachusetts Amherst and another Master degree from Peking University. For industrial experiences, I worked as a research intern in Microsoft Research Redmond, Microsoft Bing and a software engineer intern in Search R&D Department of Baidu Inc. My research areas include information retrieval, natural language processing,  text mining and machine learning. I have published papers in conferences such as SIGIR, ACL, CIKM, ICDM, NAACL, COLING and ECIR. Moreover, I have served as the PC member for top-tier conferences including KDD, ACL, AAAI, EMNLP, WSDM and CIKM. I'm now focusing on research on deep learning, question answering, statistical language models, probabilistic graphical models, ranking and relevance, learning to rank and online user modeling/profiling.
 
 I expect to graduate in Summer 2019 and am on the job market for research related positions starting in Summer 2019. Drop me an email if you are hiring and find us a good match :)
 
@@ -28,6 +28,8 @@ Academic Experience
 
 Industrial Experience
 =====================
+* Microsoft Research Redmond, Research Intern in Microsoft AI & Research, Redmond, Seattle Area, WA, USA. May 2018 - present,
+Mentors: Dr. Jianfeng Gao, Dr. Yelong Shen, Dr. Xiaodong Liu, Dr. Jingjing Liu from MSR
 * Microsoft Research Redmond, Research Intern in CLUES (Context, Learning, and User Experience for Search) group. Redmond, Seattle Area, WA, USA. Jun. 2016 - Sept. 2016,
 Mentors: Dr. Susan Dumais, Dr. Paul Bennett, Dr. Ahmed Hassan Awadallah from MSR
 * Microsoft Research Redmond/Bing, Research Intern on Bing Contextual Relevance. Bellevue, Seattle Area, WA, USA. May 2015 - Aug. 2015,
@@ -42,17 +44,11 @@ Research Interests
 
 Professional Services
 =====================
-* PC Member, 2018 Conference on Empirical Methods in Natural Language Processing (EMNLP 2018)
-* PC Member, The 27th ACM International Conference on Information and Knowledge Management (CIKM 2018)
-* PC Member, The 24rd SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2018)
-* PC Member, The 56th Annual Meeting of the Association for Computational Linguistics (ACL 2018)
-* PC Member, The 4th ACM International Conference on the Theory of Information Retrieval (ICTIR 2018)
-* Reviewer, The 40th European Conference on Information Retrieval (ECIR 2018)
-* PC Member, The 11th ACM International Conference on Web Search and Data Mining (WSDM 2018)
-* Reviewer, The 26th international World Wide Web Conference (WWW 2017)
-* PC Member, The 26th ACM International Conference on Information and Knowledge Management (CIKM 2017)
-* PC Member, The 3rd ACM International Conference on the Theory of Information Retrieval (ICTIR 2017)
-* PC Member, The 24th ACM International Conference on Information and Knowledge Management (CIKM 2015)
+* Program Committee Member 2019: AAAI 2019
+* Program Committee Member 2018: KDD 2018, ACL 2018, EMNLP 2018, WSDM 2018, CIKM 2018, ICTIR 2018, ECIR 2018 (Reviewer), AIRS 2018
+* Program Committee Member 2017: ICTIR 2017, CIKM 2017, WWW 2017 (Reviewer)
+* Program Committee Member 2015: CIKM 2015
+* Invited Journal Reviewer, Journal of the Association for Information Science and Technology (JASIST)
 
 Selected Open Source Projects
 =============================
