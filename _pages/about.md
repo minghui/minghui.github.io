@@ -10,11 +10,7 @@ redirect_from:
 
 About Me
 ========
-I am a fifth-year PhD student in the Center for Intelligent Information Retrieval (CIIR) , College of Information and Computer Sciences, University of Massachusetts Amherst under the supervision of Prof. W. Bruce Croft. I am also working closely with Prof. Jiafeng Guo.
-
-I was a Research Assistant at Text Mining Group in School of Information Systems, Singapore Management University, under the supervision of Prof. Jing Jiang on text mining and machine learning. I was working closely with Prof. Feida Zhu. I got my Master degree in Computer Science from University of Massachusetts Amherst and another Master degree from Peking University. For industrial experiences, I worked as a research intern in Microsoft Research Redmond, Microsoft Bing and a software engineer intern in Search R&D Department of Baidu Inc. My research areas include information retrieval, natural language processing,  text mining and machine learning. I have published papers in conferences such as SIGIR, ACL, CIKM, ICDM, NAACL, COLING and ECIR. Moreover, I have served as the PC member for top-tier conferences including KDD, ACL, WWW, AAAI, EMNLP, WSDM and CIKM. I'm now focusing on research on deep learning, question answering, neural conversational models, ranking and relevance, learning to rank, statistical language models, probabilistic graphical models and online user modeling/profiling.
-
-I expect to graduate in Summer 2019 and am on the job market for research (prefer IR/ Search/ Ranking/ QA/ Conversation Systems) related positions starting in Summer 2019. Drop me an email if you are hiring and find us a good match :)
+I am a software engineer/ researcher of IR/NLP/ML at Google AI. Before joining Google, I was a PhD student at the Center for Intelligent Information Retrieval (CIIR) , College of Information and Computer Sciences, University of Massachusetts Amherst under the supervision of Prof. W. Bruce Croft. I got my Master degree in Computer Science from University of Massachusetts Amherst and another Master degree from Peking University. I worked as a Research Assistant at Text Mining Group of Singapore Management University with Prof. Jing Jiang and a visiting PhD student in CAS Key Lab of Network Data Science and Technology with Prof. Jiafeng Guo. For industrial experiences, I worked as a research intern in Microsoft Research Redmond, Microsoft Bing and a software engineer intern in Search R&D Department of Baidu Inc. My research areas include information retrieval, natural language processing, text mining and machine learning. I have published more than 20 papers in top conferences such as SIGIR, ACL, CIKM, WSDM, ICDM and NAACL. Moreover, I have served as the PC member for top conferences including KDD, ACL, SIGIR, WWW, AAAI, EMNLP, WSDM and CIKM. I'm now focusing on research on deep learning, text matching, question answering, neural conversational models, search, ranking and relevance, learning to rank, statistical language models, probabilistic graphical models and user modeling/profiling.
 
 My Google scholar link: [Google Scholar](https://scholar.google.com/citations?user=MrsVnA4AAAAJ&hl=en).
 
@@ -22,13 +18,13 @@ My homepage is also hosted on [Google Site](https://sites.google.com/site/lyangw
 
 Academic Experience
 ===================
-* UMass Amherst, Research Assistant in Center for Intelligent Information Retrieval(CIIR), Advisor: Prof. W. Bruce Croft, Amherst, MA, USA. Aug. 2014 - May 2019 (expected)
+* UMass Amherst, Research Assistant in Center for Intelligent Information Retrieval(CIIR), Advisor: Prof. W. Bruce Croft, Amherst, MA, USA. Aug. 2014 - May 2019
 * Institute of Computing Technology, Chinese Academy of Science, Visiting PhD student in CAS Key Lab of Network Data Science and Technology, Advisor: Prof. Jiafeng Guo, Beijing, China. Sept. 2017 - Nov. 2017
 * Singapore Management University, Research Assistant in Text Mining Group, Advisor: Prof. Jing Jiang, Singapore. Sept. 2012 - Jun. 2014
 
 Industrial Experience
 =====================
-* Microsoft Research Redmond, Research Intern in Microsoft AI & Research, Redmond, Seattle Area, WA, USA. May 2018 - present,
+* Microsoft Research Redmond, Research Intern in Microsoft AI & Research, Redmond, Seattle Area, WA, USA. May 2018 - Aug. 2018,
 Mentors: Dr. Jianfeng Gao, Dr. Yelong Shen, Dr. Xiaodong Liu, Dr. Jingjing Liu from MSR
 * Microsoft Research Redmond, Research Intern in CLUES (Context, Learning, and User Experience for Search) group. Redmond, Seattle Area, WA, USA. Jun. 2016 - Sept. 2016,
 Mentors: Dr. Susan Dumais, Dr. Paul Bennett, Dr. Ahmed Hassan Awadallah from MSR
@@ -44,7 +40,7 @@ Research Interests
 
 Professional Services
 =====================
-* Program Committee Member 2019: AAAI 2019, WWW 2019, WSDM 2019
+* Program Committee Member 2019: AAAI 2019, WWW 2019, WSDM 2019, SIGIR 2019, KDD 2019, ACL 2019, EMNLP 2019
 * Program Committee Member 2018: KDD 2018, ACL 2018, EMNLP 2018, WSDM 2018, CIKM 2018, ICTIR 2018, ECIR 2018 (Reviewer), AIRS 2018
 * Program Committee Member 2017: ICTIR 2017, CIKM 2017, WWW 2017 (Reviewer)
 * Program Committee Member 2015: CIKM 2015
