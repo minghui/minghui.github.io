@@ -24,6 +24,7 @@ Academic Experience
 
 Industrial Experience
 =====================
+* Google AI, Mountain View, CA , USA. July 2019 - Present
 * Microsoft Research Redmond, Research Intern in Microsoft AI & Research, Redmond, Seattle Area, WA, USA. May 2018 - Aug. 2018,
 Mentors: Dr. Jianfeng Gao, Dr. Yelong Shen, Dr. Xiaodong Liu, Dr. Jingjing Liu from MSR
 * Microsoft Research Redmond, Research Intern in CLUES (Context, Learning, and User Experience for Search) group. Redmond, Seattle Area, WA, USA. Jun. 2016 - Sept. 2016,

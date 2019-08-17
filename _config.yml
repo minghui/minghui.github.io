@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Liu Yang / Welcome to Liu Yang's Homepage"
+title                    : "Liu Yang / Welcome to Liu Yang's Personal Homepage"
 title_separator          : "-"
 name                     : &name "Liu Yang"
 description              : &description "personal description"
@@ -77,7 +77,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Liu Yang"
+  name             : "Dr. Liu Yang"
   avatar           : "profile.jpg"
   bio              : "Software Engineer/ Researcher of IR/NLP/ML, Google AI"
   location         : "Mountain View, CA, USA"
