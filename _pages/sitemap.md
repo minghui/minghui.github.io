@@ -10,5 +10,4 @@ author_profile: true
 A list of all the posts and pages found on the site. 
 
 * [About](https://yangliuy.github.io/)
-* [Publications](https://yangliuy.github.io/publications/)
 * [CV](https://yangliuy.github.io/cv/)
