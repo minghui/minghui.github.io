@@ -18,6 +18,8 @@ My DBLP link: [DBLP](https://dblp.org/pers/hd/y/Yang_0005:Liu).
 
 My homepage is also hosted on [Google Site](https://sites.google.com/site/lyangwww/).
 
+My email is yangliuy@google.com (recommended email for contact).
+
 Academic Experience
 ===================
 * UMass Amherst, Research Assistant in Center for Intelligent Information Retrieval(CIIR), Advisor: Prof. W. Bruce Croft, Amherst, MA, USA. Aug. 2014 - May 2019
