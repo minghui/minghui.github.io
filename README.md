@@ -1,4 +1,4 @@
-This is the source code of Liu Yang's home page on Github.io, which is forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/).
+This is the source code of Liu Yang's home page on Github.io (https://yangliuy.github.io/), which is forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/).
 
 The original readme file
 =========================
