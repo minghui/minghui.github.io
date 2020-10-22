@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Liu Yang / Welcome to Liu Yang's Personal Homepage"
+title                    : "Welcome to Minghui's Homepage"
 title_separator          : "-"
-name                     : &name "Liu Yang"
+name                     : &name "Minghui Qiu"
 description              : &description "personal description"
-url                      : https://yangliuy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://minghui.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yangliuy/yangliuy.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -54,7 +54,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : liuyang_irnlp
+  username               : minghui
 facebook:
   username               : 
   app_id                 :
@@ -77,9 +77,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Liu Yang"
-  avatar           : "profile.jpg"
-  bio              : "Software Engineer/ Researcher of IR/NLP/ML, Google Research"
+  name             : "Dr. Minghui Qiu"
+  avatar           : "id3.JPG"
+  bio              : "Researcher of IR/NLP/DL, Alibaba Group"
   location         : "Mountain View, CA, USA"
   employer         : "Google"
   googlescholar    : "https://scholar.google.com/citations?user=MrsVnA4AAAAJ&hl=en"
