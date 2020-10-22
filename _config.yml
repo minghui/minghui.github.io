@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Welcome to Minghui's Homepage"
+title                    : "Minghui's Homepage"
 title_separator          : "-"
 name                     : &name "Minghui Qiu"
 description              : &description "personal description"
 url                      : https://minghui.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "yangliuy/yangliuy.github.io"
+repository               : "minghui/minghui.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -79,31 +79,31 @@ analytics:
 author:
   name             : "Dr. Minghui Qiu"
   avatar           : "id3.JPG"
-  bio              : "Researcher of IR/NLP/DL, Alibaba Group"
-  location         : "Mountain View, CA, USA"
-  employer         : "Google"
-  googlescholar    : "https://scholar.google.com/citations?user=MrsVnA4AAAAJ&hl=en"
-  email            : "yangliuyx@gmail.com"
+  bio              : "Researcher of NLP/DL/IR"
+  location         : "Hangzhou, China"
+  employer         : "Alibaba Group"
+  googlescholar    : "https://scholar.google.com/citations?user=xcqJyMgAAAAJ&hl=en"
+  email            : "minghuiqiu@gmail.com"
   uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "yangliuyx"
+  facebook         :
   foursquare       :
-  github           : "yangliuy"
+  github           :
   google_plus      :
   keybase          :
   instagram        : 
   lastfm           :
-  linkedin         : "liu-yang-73602163"
+  linkedin         :
   orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "liuyang_irnlp"
+  twitter          :
   vine             :
   weibo            :
   xing             :
