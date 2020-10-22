@@ -16,13 +16,14 @@ I held a Ph.D degree in School of Information Systems, Singapore Management Univ
 
 My homepage is also hosted on [Google Site](https://sites.google.com/site/qiumh0727/). My email is minghuiqiu at google dot com.
 
-**Experience**
+Experience
+========
 
 - Senior Algorithm Expert, Alibaba Group, China ,                                              2015.8 – Now.
    - AI platforms
-      - Building PAI-EasyTransfer, GithubRepository
-      - Building Ali AI Agent for RL (A3gent)<br />
-      - Developing Neural network models for Platform of AI (PAI)<br />
+      - Build EasyTransfer, [Github](https://github.com/alibaba/EasyTransfer)
+      - Help Build EasyRL, [Github](https://github.com/alibaba/EasyRL) <br />
+      - Develop DNN models for Platform of AI (PAI)<br />
    - Applications
       - Build core question answering modules in AliMe Assistant Bot<br />
       - Deep Reinforcement Learning for E-commerce applications<br />
@@ -32,39 +33,42 @@ My homepage is also hosted on [Google Site](https://sites.google.com/site/qiumh0
 - Visiting Scholar Carnegie Mellon University, Pittsburgh, PA, USA         2013.5 - 2014.5
    - PhD Training Residency in Natural Language Processing and Machine Learning.<br />
 
-**Education**
+Education
+========
 
 - PhD, Singapore Management University, Aug 2010 to July 2015.<br />
 - PhD Overseas Training Residency, Carnegie Mellon University, Aug 2013 to June 2014.<br />
 - B.E., Communication Engineering, Nanjing University of P. & T., 2009
 
 
-<br />**Selected Publications**<br />(*=corresponding author)
+Selected Publications
+========
 
-1. **EMNLP 2020. **Meta Fine-Tuning Neural Language Models for Multi-Domain Text Mining. To Appear, EMNLP 2020. Full Paper.<br />
-1. **IJCAI 2020. **AdaBERT: Task-adaptive BERT Compression with Neural Architecture Search. To appear in IJCAI. Full paper.<br />
-1. **SIGIR 2020. **FashionBERT: Text and Image Matching for Fashion Domain with Adaptive Loss, Industry Track, Full paper.<br />
-1. **SIGIR 2020. **Open-Retrieval Conversational Question Answering. To appear in SIGIR. Full paper.<br />
+(*=corresponding author)
+1. **EMNLP 2020.** Meta Fine-Tuning Neural Language Models for Multi-Domain Text Mining. To Appear, EMNLP 2020. Full Paper.<br />
+1. **IJCAI 2020.** AdaBERT: Task-adaptive BERT Compression with Neural Architecture Search. To appear in IJCAI. Full paper.<br />
+1. **SIGIR 2020.** FashionBERT: Text and Image Matching for Fashion Domain with Adaptive Loss, Industry Track, Full paper.<br />
+1. **SIGIR 2020.** Open-Retrieval Conversational Question Answering. To appear in SIGIR. Full paper.<br />
 1. **SIGIR 2020.** Global Context Enhanced Graph Nerual Networks for Session-based Recommendation. To appear in SIGIR. Full paper. <br />
-1. **IJCAI 2020. **AdaBERT: Task-adaptive BERT Compression with Neural Architecture Search. To appear in IJCAI. Full paper.<br />
-1. **ACM MM2020. **One-shot Text Field Labeling using Attention and Belief Propagation for Structure Information Extraction. To appear, Full Oral paper.<br />
-1. **CIKM 2019. **A Hybrid Retrieval-Generation Neural Conversation Model. Liu Yang, Junjie Hu, Minghui Qiu, Chen Qu, Jianfeng Gao, W. Bruce Croft, Xiaodong Liu, Yelong Shen, and Jingjing Liu. To appear in CIKM. Full paper.<br />
-1. **CIKM 2019. **Attentive History Selection for Conversational Question Answering. Chen Qu, Liu Yang, Minghui Qiu, Yongfeng Zhang, Cen Chen, W Bruce Croft, and Mohit Iyyer. To appear in CIKM. Full paper.<br />
-1. **CIKM 2019. **Cross-domain Attention Network with Wasserstein Regularizers for E-commerce Search. Minghui Qiu, Bo Wang, Cen Chen, Xiaoyi Zeng, Jun Huang, Deng Cai, Jingren Zhou, and Forrest Sheng Bao. To appear in CIKM. Full paper.<br />
-1. **KDD 2019. **A Minimax Game for Instance based Selective Transfer Learning. Bo Wang, Minghui Qiu*, Xisen Wang, Yaliang Li, Yu Gong, Xiaoyi Zeng, Jun Huang, Bo Zheng, Deng Cai, and Jingren Zhou, To appear in KDD.<br />
-1. **SIGIR 2019. **BERT with History Modeling for Conversational Question Answering. Chen Qu, Liu Yang, Minghui Qiu, W. Bruce Croft, Yongfeng Zhang, Mohit Iyyer, In Proceedings of the 42th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR). 2019, to appear.[[Code & Data & Bibtext](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fprdwb%2Fbert_hae&sa=D&sntz=1&usg=AFQjCNGvczU68QW2GrPrX9k2bUHvZCSXeA)]<br />
-1. **WWW 2019. **Multi-Domain Gated CNN for Review Helpfulness Prediction_. To appear in The World Wide Web Conference (WWW-19)_, San Francisco, USA, May, 2019. (Short)<br />
+1. **IJCAI 2020.** AdaBERT: Task-adaptive BERT Compression with Neural Architecture Search. To appear in IJCAI. Full paper.<br />
+1. **ACM MM2020** One-shot Text Field Labeling using Attention and Belief Propagation for Structure Information Extraction. To appear, Full Oral paper.<br />
+1. **CIKM 2019.** A Hybrid Retrieval-Generation Neural Conversation Model. Liu Yang, Junjie Hu, Minghui Qiu, Chen Qu, Jianfeng Gao, W. Bruce Croft, Xiaodong Liu, Yelong Shen, and Jingjing Liu. To appear in CIKM. Full paper.<br />
+1. **CIKM 2019.** Attentive History Selection for Conversational Question Answering. Chen Qu, Liu Yang, Minghui Qiu, Yongfeng Zhang, Cen Chen, W Bruce Croft, and Mohit Iyyer. To appear in CIKM. Full paper.<br />
+1. **CIKM 2019.** Cross-domain Attention Network with Wasserstein Regularizers for E-commerce Search. Minghui Qiu, Bo Wang, Cen Chen, Xiaoyi Zeng, Jun Huang, Deng Cai, Jingren Zhou, and Forrest Sheng Bao. To appear in CIKM. Full paper.<br />
+1. **KDD 2019.**  A Minimax Game for Instance based Selective Transfer Learning. Bo Wang, Minghui Qiu*, Xisen Wang, Yaliang Li, Yu Gong, Xiaoyi Zeng, Jun Huang, Bo Zheng, Deng Cai, and Jingren Zhou, To appear in KDD.<br />
+1. **SIGIR 2019.** BERT with History Modeling for Conversational Question Answering. Chen Qu, Liu Yang, Minghui Qiu, W. Bruce Croft, Yongfeng Zhang, Mohit Iyyer, In Proceedings of the 42th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR). 2019, to appear.[[Code & Data & Bibtext](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fprdwb%2Fbert_hae&sa=D&sntz=1&usg=AFQjCNGvczU68QW2GrPrX9k2bUHvZCSXeA)]<br />
+1. **WWW 2019.**  Multi-Domain Gated CNN for Review Helpfulness Prediction_. To appear in The World Wide Web Conference (WWW-19)_, San Francisco, USA, May, 2019. (Short)<br />
 1. **WSDM 2019.** Learning to Selectively Transfer: Reinforced Transfer Learning for Deep Text Matching. Chen Qu, Feng Ji, Minghui Qiu*, Liu Yang, Zhiyu Min, Haiqing Chen, Jun Huang and W. Bruce Croft. To appear in _Proceedings of the 12th ACM International Conference on Web Search and Data Mining_ ([WSDM 2019](http://www.google.com/url?q=http%3A%2F%2Fwww.wsdm-conference.org%2F2019%2Findex.php&sa=D&sntz=1&usg=AFQjCNHCxVLvajrjWbrFwUBlF3PYk5pumw)), Melbourne, Australia, February 11-15, 2019. Full Oral Paper. _Acceptance rate=16% (84 out of 511)_.<br />
 1. **ACL 2018**. [Transfer Learning for Context-Aware Question Matching in Information-seeking Conversations in E-commerce.](https://www.google.com/url?q=https%3A%2F%2Farxiv.org%2Fabs%2F1806.05434&sa=D&sntz=1&usg=AFQjCNGrrVAucp03cN8MxFYGev9Rb1UPPQ) Minghui Qiu, Liu Yang, Feng Ji, Wei Zhou, Weipeng Zhao, Jun Huang, Haiqing Chen, W. Bruce Croft,Wei Lin. In Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (ACL 2018), Melbourne, Australia, July 15-20, 2018.<br />
 1. **SIGIR 2018**. [Response Ranking with Deep Matching Networks and External Knowledge in Information-seeking Conversation Systems](https://www.google.com/url?q=https%3A%2F%2Farxiv.org%2Fabs%2F1805.00188&sa=D&sntz=1&usg=AFQjCNEolFEDzwg-RyADWGZDYhTCs6A0YA). Liu Yang, Minghui Qiu, Chen Qu, Jiafeng Guo, Yongfeng Zhang, W. Bruce Croft, Jun Huang, Haiqing Chen. In Proceedings of the 41th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2018), Ann Arbor, Michigan, U.S.A. July 8-12, 2018. [[Code](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fyangliuy%2FNeuralResponseRanking&sa=D&sntz=1&usg=AFQjCNFc_9Bbqngz1DwbKdRUgoo306u3Aw)][[Data](https://www.google.com/url?q=https%3A%2F%2Fciir.cs.umass.edu%2Fdownloads%2Fmsdialog%2F&sa=D&sntz=1&usg=AFQjCNGFJPCwV5F7XBMsLg5k73xckDFuTw)][[Slides](https://www.google.com/url?q=https%3A%2F%2Fwww.dropbox.com%2Fs%2Fgity3qn4ndq0jiw%2F18-SIGIR-ResponseRanking-Slides.pdf%3Fdl%3D0&sa=D&sntz=1&usg=AFQjCNHhOuwSgVb87K36mVoZtofmIRUrZQ)][[PPT](https://www.google.com/url?q=https%3A%2F%2Fwww.dropbox.com%2Fs%2F0badmd3s8dyylp5%2F18-SIGIR-ResponseRanking-Slides.pptx%3Fdl%3D0&sa=D&sntz=1&usg=AFQjCNGQH4r-FQo81jSc58sSa3igBYVaAA)][[Bibtex](https://www.google.com/url?q=https%3A%2F%2Fdblp.org%2Frec%2Fbibtex%2Fconf%2Fsigir%2FYangQQGZCHC18&sa=D&sntz=1&usg=AFQjCNFmzr-WseH1hRgd0oC8E43ud3CN6w)]<br />
 1. **SIGIR 2018**. [Analyzing and Characterizing User Intent in Information-seeking Conversations.](https://www.google.com/url?q=https%3A%2F%2Farxiv.org%2Fabs%2F1804.08759&sa=D&sntz=1&usg=AFQjCNF37rBv6Au6Zlm1xlCnwFD9t-kCyw) Short Paper. To appear.[[MSDialog dataset](https://www.google.com/url?q=https%3A%2F%2Fciir.cs.umass.edu%2Fdownloads%2Fmsdialog%2F&sa=D&sntz=1&usg=AFQjCNGFJPCwV5F7XBMsLg5k73xckDFuTw)]<br />
-1. **WSDM 2018. **[Modelling Domain Relationships for Transfer Learning on Retrieval-based Question Answering Systems in E-commerce](http://www.google.com/url?q=http%3A%2F%2Farxiv.org%2Fabs%2F1711.08726&sa=D&sntz=1&usg=AFQjCNGx9iRezzed3Nb8C3YXOaXdTb697A). Jianfei Yu, Minghui Qiu*, Jing Jiang, Shuangyong Song, Jun Huang, Wei Chu and Haiqing Chen. WSDM 2018. [[Code](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2FjefferyYu%2FWSDM18_codes&sa=D&sntz=1&usg=AFQjCNFS-QgxJU0jdiEumw8_tnLfxhbGOA)][[Bibtex](https://www.google.com/url?q=https%3A%2F%2Fdblp.uni-trier.de%2Frec%2Fbibtex%2Fjournals%2Fcorr%2Fabs-1711-08726&sa=D&sntz=1&usg=AFQjCNET56d16DTHh2cH8cj67j6epkhXwg)]<br />
+1. **WSDM 2018.** [Modelling Domain Relationships for Transfer Learning on Retrieval-based Question Answering Systems in E-commerce](http://www.google.com/url?q=http%3A%2F%2Farxiv.org%2Fabs%2F1711.08726&sa=D&sntz=1&usg=AFQjCNGx9iRezzed3Nb8C3YXOaXdTb697A). Jianfei Yu, Minghui Qiu*, Jing Jiang, Shuangyong Song, Jun Huang, Wei Chu and Haiqing Chen. WSDM 2018. [[Code](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2FjefferyYu%2FWSDM18_codes&sa=D&sntz=1&usg=AFQjCNFS-QgxJU0jdiEumw8_tnLfxhbGOA)][[Bibtex](https://www.google.com/url?q=https%3A%2F%2Fdblp.uni-trier.de%2Frec%2Fbibtex%2Fjournals%2Fcorr%2Fabs-1711-08726&sa=D&sntz=1&usg=AFQjCNET56d16DTHh2cH8cj67j6epkhXwg)]<br />
 1. **IJCAI 2018.** IncepText: A New Inception-Text Module with Deformable PSROI Pooling for Multi-Oriented Scene Text Detection. To appear.<br />
 1. **Book Chapter.** Reinforcement Learning Beyond Games: To Make a Difference in Alibaba. Book Chapter, 2018.<br />
-1. **ICDM 2017. **A Short-Term Rainfall Prediction Model using Multi-Task Convolutional Neural Networks. Minghui Qiu, [Peilin Zhao](http://www.google.com/url?q=http%3A%2F%2Fpeilinzhao.weebly.com%2F&sa=D&sntz=1&usg=AFQjCNGmZvCf-cKqu6vXHS72Dy6WV5fC9g), Ke Zhang, Xing Shi, Xiaoguang Wang, Jun Huang, and [Wei Chu](http://www.google.com/url?q=http%3A%2F%2Fchuwei.website%2F&sa=D&sntz=1&usg=AFQjCNH8tvKRUQnyzRdwXJWCc-6tqX4gHw), ICDM, regular paper.<br />
-1. **CIKM 2017. **[A Communication Efficient Parallel DBSCAN Algorithm based on Parameter Server](https://www.google.com/url?q=https%3A%2F%2Farxiv.org%2Fabs%2F1711.01034&sa=D&sntz=1&usg=AFQjCNEDDFQ0VentePz_Q4CQ2Mt4Kc6rPg). Xu Hu, Jun Huang, Minghui Qiu, Cen Chen, [Wei Chu](http://www.google.com/url?q=http%3A%2F%2Fchuwei.website%2F&sa=D&sntz=1&usg=AFQjCNH8tvKRUQnyzRdwXJWCc-6tqX4gHw). ACM International Conference on Information and Knowledge Management.<br />
-1. **CIKM 2017. **[AliMe Assist: An Intelligent Assistant for Creating an Innovative E-commerce Experience](https://www.google.com/url?q=https%3A%2F%2Farxiv.org%2Fabs%2F1801.05032&sa=D&sntz=1&usg=AFQjCNHkQasyYc33bvtYiXr69IW48_omwA), Feng-Lin Li, Minghui Qiu, Haiqing Chen, Xiongwei Wang, Xing Gao, Jun Huang, et al., ACM International Conference on Information and Knowledge Management. **Best Demo Award.**<br />
-1. **ACL 2017**.[ Ali](https://www.google.com/url?q=https%3A%2F%2Fwww.aclweb.org%2Fanthology%2FP%2FP17%2FP17-2079.pdf&sa=D&sntz=1&usg=AFQjCNFfj15m23djbLljhHWSMTAiRJveUA)[_Me Chat: a Sequence to Sequence and Rerank Based Chatbot Engine._](https://www.google.com/url?q=https%3A%2F%2Fwww.aclweb.org%2Fanthology%2FP%2FP17%2FP17-2079.pdf&sa=D&sntz=1&usg=AFQjCNFfj15m23djbLljhHWSMTAiRJveUA)[ ](https://www.google.com/url?q=https%3A%2F%2Fwww.aclweb.org%2Fanthology%2FP%2FP17%2FP17-2079.pdf&sa=D&sntz=1&usg=AFQjCNFfj15m23djbLljhHWSMTAiRJveUA)Minghui Qiu, Feng-Lin Li, Siyu Wang, Xing Gao, Yan Chen, Weipeng Zhao, Haiqing Chen, Jun Huang, [Wei Chu](http://www.google.com/url?q=http%3A%2F%2Fchuwei.website%2F&sa=D&sntz=1&usg=AFQjCNH8tvKRUQnyzRdwXJWCc-6tqX4gHw). Annual Meeting of the Association for Computational Linguistics.<br />
+1. **ICDM 2017.** A Short-Term Rainfall Prediction Model using Multi-Task Convolutional Neural Networks. Minghui Qiu, [Peilin Zhao](http://www.google.com/url?q=http%3A%2F%2Fpeilinzhao.weebly.com%2F&sa=D&sntz=1&usg=AFQjCNGmZvCf-cKqu6vXHS72Dy6WV5fC9g), Ke Zhang, Xing Shi, Xiaoguang Wang, Jun Huang, and [Wei Chu](http://www.google.com/url?q=http%3A%2F%2Fchuwei.website%2F&sa=D&sntz=1&usg=AFQjCNH8tvKRUQnyzRdwXJWCc-6tqX4gHw), ICDM, regular paper.<br />
+1. **CIKM 2017.** [A Communication Efficient Parallel DBSCAN Algorithm based on Parameter Server](https://www.google.com/url?q=https%3A%2F%2Farxiv.org%2Fabs%2F1711.01034&sa=D&sntz=1&usg=AFQjCNEDDFQ0VentePz_Q4CQ2Mt4Kc6rPg). Xu Hu, Jun Huang, Minghui Qiu, Cen Chen, [Wei Chu](http://www.google.com/url?q=http%3A%2F%2Fchuwei.website%2F&sa=D&sntz=1&usg=AFQjCNH8tvKRUQnyzRdwXJWCc-6tqX4gHw). ACM International Conference on Information and Knowledge Management.<br />
+1. **CIKM 2017.** [AliMe Assist: An Intelligent Assistant for Creating an Innovative E-commerce Experience](https://www.google.com/url?q=https%3A%2F%2Farxiv.org%2Fabs%2F1801.05032&sa=D&sntz=1&usg=AFQjCNHkQasyYc33bvtYiXr69IW48_omwA), Feng-Lin Li, Minghui Qiu, Haiqing Chen, Xiongwei Wang, Xing Gao, Jun Huang, et al., ACM International Conference on Information and Knowledge Management. **Best Demo Award.**<br />
+1. **ACL 2017**. [ Ali](https://www.google.com/url?q=https%3A%2F%2Fwww.aclweb.org%2Fanthology%2FP%2FP17%2FP17-2079.pdf&sa=D&sntz=1&usg=AFQjCNFfj15m23djbLljhHWSMTAiRJveUA)[_Me Chat: a Sequence to Sequence and Rerank Based Chatbot Engine._](https://www.google.com/url?q=https%3A%2F%2Fwww.aclweb.org%2Fanthology%2FP%2FP17%2FP17-2079.pdf&sa=D&sntz=1&usg=AFQjCNFfj15m23djbLljhHWSMTAiRJveUA)[ ](https://www.google.com/url?q=https%3A%2F%2Fwww.aclweb.org%2Fanthology%2FP%2FP17%2FP17-2079.pdf&sa=D&sntz=1&usg=AFQjCNFfj15m23djbLljhHWSMTAiRJveUA)Minghui Qiu, Feng-Lin Li, Siyu Wang, Xing Gao, Yan Chen, Weipeng Zhao, Haiqing Chen, Jun Huang, [Wei Chu](http://www.google.com/url?q=http%3A%2F%2Fchuwei.website%2F&sa=D&sntz=1&usg=AFQjCNH8tvKRUQnyzRdwXJWCc-6tqX4gHw). Annual Meeting of the Association for Computational Linguistics.<br />
 1. **TIST 2016**. _Personalized Microtopic Recommendation on Microblogs. _Yang Li, Jing Jiang, Ting Liu, and Minghui Qiu. In the Transactions on Intelligent Systems and Technology.<br />
 1. **SDM 2015**. [Modeling User Arguments, Interactions, and Attributes for Stance Prediction in Online Debate Forums.](http://www.google.com/url?q=http%3A%2F%2Fwww.cs.cmu.edu%2F~nasmith%2Fpapers%2Fqiu%2Bsim%2Bsmith%2Bjiang.sdm15.pdf&sa=D&sntz=1&usg=AFQjCNGgqwrPEVFEox9FyGUcEEgtwtWxFw) Minghui Qiu, [Yanchuan Sim](http://www.google.com/url?q=http%3A%2F%2Fwww.yanchuan.sg%2F&sa=D&sntz=1&usg=AFQjCNEpAxyyymTNPA6X4JJTWqXlbtEvFQ), [Noah A. Smith](http://www.google.com/url?q=http%3A%2F%2Fwww.cs.cmu.edu%2F~nasmith%2F&sa=D&sntz=1&usg=AFQjCNFRKrlPEPOtH8Oh2y_5BCyGgC_AGA), and [Jing Jiang](http://www.google.com/url?q=http%3A%2F%2Fwww.mysmu.edu%2Ffaculty%2Fjingjiang%2F&sa=D&sntz=1&usg=AFQjCNFVFTV0rZ6nBNqgrHQADshntbOreg). 2015 SIAM International Conference on Data Mining. [[_Appendix_](http://www.google.com/url?q=http%3A%2F%2Fwww.cs.cmu.edu%2F~nasmith%2Fpapers%2Fqiu%2Bsim%2Bsmith%2Bjiang.sdm15-supp.pdf&sa=D&sntz=1&usg=AFQjCNHpIrw9J8fkcmGNWvaVtWZgkukkHw)] <br />
 1. **ACL 2015**. [Semantic Analysis and Helpfulness Prediction of Text for Online Product Reviews](http://www.google.com/url?q=http%3A%2F%2Facl2015.org%2Fabstracts_short%2F622.html&sa=D&sntz=1&usg=AFQjCNEGW-QGDAnBHvL0sGYYWbRKhKp57Q). [Yinfei Yang](https://www.google.com/url?q=https%3A%2F%2Fsites.google.com%2Fsite%2Fyinfeiyang%2F&sa=D&sntz=1&usg=AFQjCNHvN0ZEU9QP0A5_iHjbdYTA-fAcuw), Yaowei Yan, Minghui Qiu, [Forrst S. Bao](http://www.google.com/url?q=http%3A%2F%2Fgozips.uakron.edu%2F~fbao5%2F&sa=D&sntz=1&usg=AFQjCNF_wZj8NMYXj1GWwVRal6W04aAhcQ), short, Beijing, China. [[Data](http://www.google.com/url?q=http%3A%2F%2Fsites.google.com%2Fsite%2Fforrestbao%2Facl_data.tar.bz2&sa=D&sntz=1&usg=AFQjCNFBKbIkGCFmKUtDKuNkew66_x5raQ)]<br />
@@ -80,10 +84,12 @@ My homepage is also hosted on [Google Site](https://sites.google.com/site/qiumh0
 1. **SocInfo 2013**. [Predicting User's Political Party using Ideological Stances](http://www.google.com/url?q=http%3A%2F%2Fwww.mysmu.edu%2Ffaculty%2Ffdzhu%2Fpaper%2FSOCINFO%2713_45.pdf&sa=D&sntz=1&usg=AFQjCNHuscERiTfv5Lk-fLL_IE-_C3JMoQ).  [Swapna Gottipati](http://www.google.com/url?q=http%3A%2F%2Fwww.mysmu.edu%2Fphdis2010%2Fswapnag.2010%2F&sa=D&sntz=1&usg=AFQjCNHexIqSYawDgA0_krfU9GJZhsCHvg), Minghui Qiu, [Liu Yang](http://www.google.com/url?q=http%3A%2F%2Fsites.google.com%2Fsite%2Fliuyang198908%2Fhome&sa=D&sntz=1&usg=AFQjCNEI2ugH-32-r17zz5jpb9uSUYn30g), [Feida Zhu](http://www.google.com/url?q=http%3A%2F%2Fwww.mysmu.edu%2Ffaculty%2Ffdzhu%2F&sa=D&sntz=1&usg=AFQjCNGED4ZgbNOhbAERNh6JKWEGIpMLgw), and [Jing Jiang](http://www.google.com/url?q=http%3A%2F%2Fwww.mysmu.edu%2Ffaculty%2Fjingjiang%2Fdefault.htm&sa=D&sntz=1&usg=AFQjCNF2r5LshGc5LgRc5jrzz-puvMSRLg). In Proceedings of the 5th International Conference on Social Informatics. **Best Paper Runner-up.**<br />
 1. **AIRS 2012**. [Query-Oriented Keyphrase Extraction](http://www.google.com/url?q=http%3A%2F%2Flink.springer.com%2Fchapter%2F10.1007%252F978-3-642-35341-3_6%23page-1&sa=D&sntz=1&usg=AFQjCNEUDE5W2Vl_YZ_f4oSsu4L92XE5Wg). Minghui Qiu, [Yaliang Li](https://www.google.com/url?q=https%3A%2F%2Fsites.google.com%2Fsite%2Fyaliangli%2F&sa=D&sntz=1&usg=AFQjCNEm6UYKgRpNfSCNkl2xeMvU4RrX9A), and [Jing Jiang](http://www.google.com/url?q=http%3A%2F%2Fwww.mysmu.edu%2Ffaculty%2Fjingjiang%2Fdefault.htm&sa=D&sntz=1&usg=AFQjCNF2r5LshGc5LgRc5jrzz-puvMSRLg). In Proceedings of the Asia Information Retrieval Societies Conference, pp64-75.<br />
 1. **PRL 2010**. [A Fast Divisive Clustering Algorithm Using An Improved Discrete  Particle Swarm Optimizer](http://www.google.com/url?q=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS0167865510001133&sa=D&sntz=1&usg=AFQjCNFIuf6ts5yT1G-6BS9FmXmqEPIeEQ). [Liang Feng](http://www.google.com/url?q=http%3A%2F%2Fwww3.ntu.edu.sg%2Fhome2009%2FFENG0039%2F&sa=D&sntz=1&usg=AFQjCNFpu09ISan9zJcRTYPW5RLcBPgStA), Minghui Qiu, [Yu-Xuan Wang](http://www.google.com/url?q=http%3A%2F%2Fwww.cse.ohio-state.edu%2F~wangyuxu%2F&sa=D&sntz=1&usg=AFQjCNFFZzOf75R7-Pbr8ktHce1CmZi0xg), [Qiao-Liang Xiang](https://www.google.com/url?q=https%3A%2F%2Fsites.google.com%2Fsite%2Fqiaoliangxiang%2F&sa=D&sntz=1&usg=AFQjCNFwVmizqwpIwjCFYCI7QNhhtVEN6Q), [Yin-Fei Yang](https://www.google.com/url?q=https%3A%2F%2Fsites.google.com%2Fsite%2Fyinfeiyang%2F&sa=D&sntz=1&usg=AFQjCNHvN0ZEU9QP0A5_iHjbdYTA-fAcuw), and Kai Liu. Pattern Recognition Letters, Vol. 31, No. 11, pp. 1216 - 1225.
-1. **PhD Thesis, **[Mining User Viewpoints in Online Discussions](http://www.google.com/url?q=http%3A%2F%2Fink.library.smu.edu.sg%2Fcgi%2Fviewcontent.cgi%3Farticle%3D1123%26context%3Detd_coll&sa=D&sntz=1&usg=AFQjCNHJj77aFUQDJ0Ammioae9CHo_9QZA), Minghui Qiu, School of Information Systems, Singapore Management University, to appear in Aug 2015.
+1. **PhD Thesis**. [Mining User Viewpoints in Online Discussions](http://www.google.com/url?q=http%3A%2F%2Fink.library.smu.edu.sg%2Fcgi%2Fviewcontent.cgi%3Farticle%3D1123%26context%3Detd_coll&sa=D&sntz=1&usg=AFQjCNHJj77aFUQDJ0Ammioae9CHo_9QZA), Minghui Qiu, School of Information Systems, Singapore Management University, to appear in Aug 2015.
 
 See also: [[Google Scholar](http://scholar.google.com.sg/citations?user=xcqJyMgAAAAJ&hl=en)] [[DBLP](http://www.google.com/url?q=http%3A%2F%2Fwww.informatik.uni-trier.de%2F~ley%2Fpers%2Fhy%2Fq%2FQiu%3AMinghui.html&sa=D&sntz=1&usg=AFQjCNE99KrMT73i0ybfN2NoZEZXIEDtew)]<br />
-<br />**Talks**
+
+Talks
+========
 
 1. [Deep Learning with PAI -- a Case Study of AliMe](https://www.google.com/url?q=https%3A%2F%2Fwww.re-work.co%2Fevents%2Fdeep-learning-summit-singapore-april-2017%2Fschedule&sa=D&sntz=1&usg=AFQjCNEyY2eNDjZ5pXkqhhcV1N4h9TNLGQ), Deep Learning Summit, Singapore, 2017.<br />
 1. Tensorflow and Its Application in AliMe Assistant Bot, Tensorflow symposium, Alibaba, 2016.
@@ -95,13 +101,11 @@ See also: [[Google Scholar](http://scholar.google.com.sg/citations?user=xcqJyMgA
 1. Query-oriented Keyphrase Extraction, AIRS, Tianjin, China. 2012
 
 
-<br />**Awards**
+Awards
+========
 
 - AliStar, Alibaba Group, 2015<br />
 - SocInfo Best Paper Runner-up, 2013.<br />
 - CIKM Student Travel Award, 2013.<br />
 - PhD Overseas Training Residency at CMU, LARC Scholarship.<br />
 - Singapore Management University Postgraduate Research Scholarship, 2010.
-
-
-<br />**
