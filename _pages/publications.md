@@ -5,6 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
+1. **arxiv.** EasyTransfer: A Simple and Scalable Deep Transfer Learning Platform for NLP Applications. 2020.<br />
+1. **arxiv.** Learning to Expand: Reinforced Pseudo-relevance Feedback Selection for Information-seeking Conversations. 2020.<br />
+1. **arxiv.** Meta-KD: A Meta Knowledge Distillation Framework for Language Model Compression across Domains. 2020.<br />
+1. **AAAI 2021.** Reinforced History Backtracking for Conversational Question Answering. Minghui Qiu, Xinjing Huang, et al., AAAI.<br />
+1. **AAAI 2021.** Learning to Augment for Data-Scarce Domain BERT Knowledge Distillation. Lingyun Feng, Minghui Qiu, Yaliang Li, et al., AAAI.<br />
+1. **AAAI 2021.** KEML: A Knowledge-Enriched Meta-Learning Framework for Lexical Relation Classification, Chengyu Wang, Minghui Qiu, Jun Huang, Xiaofeng He. AAAI.<br />
 1. **EMNLP 2020.** Meta Fine-Tuning Neural Language Models for Multi-Domain Text Mining. To Appear, EMNLP 2020. Full Paper.<br />
 1. **IJCAI 2020.** AdaBERT: Task-adaptive BERT Compression with Neural Architecture Search. To appear in IJCAI. Full paper.<br />
 1. **SIGIR 2020.** FashionBERT: Text and Image Matching for Fashion Domain with Adaptive Loss, Industry Track, Full paper.<br />
